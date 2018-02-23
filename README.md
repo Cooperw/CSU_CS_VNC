@@ -16,7 +16,7 @@ Hostname: cooper.cs.colostate.edu
 ```
 
 If you have never used vnc before you may need to modify the startup file.
-First make a backup copy of your old startup file and then open up the file.
+First make a backup copy of your old startup file and then open up the origional file.
 ```
 cp /s/bach/k/under/{your cs username}/.vnc/xstartup  /s/bach/k/under/{your cs username}/.vnc/xstartup.old
 nano /s/bach/k/under/{your cs username}/.vnc/xstartup
