@@ -45,11 +45,12 @@ Now start the VNC server that you will eventually be connecting to. The 5 below 
 ```
 vncserver :5
 ```
-*use vncserver -kill :5 to stop the server when you are done
+_*use vncserver -kill :5 to stop the server when you are done_
 
 **Your halfway done!**
 Now switch over to your regular personal desktop.
-When off campus I sometimes use Pulse Secure to establish a vpn with CSU.
+When off campus I sometimes use Pulse Secure to establish a vpn with CSU. There are multiple other programs that will also work. The credentials for pulse secure are the same ones that you use for Canvas or Ram Web and I believe the address is "secure.colostate.edu".
+_*If your Username/eName isn't working, try COLOSTATE\eName_
 
 Once you are ready to connect to the VNC server open up [VNC® Viewer for Google Chrome™](https://chrome.google.com/webstore/detail/vnc%C2%AE-viewer-for-google-ch/iabmpiboiopbgfabjmgeedhcmjenhbla/related?hl=en).
 Type your computer address into the address box.
