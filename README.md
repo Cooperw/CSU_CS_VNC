@@ -3,13 +3,14 @@
 
 I use chrome apps to ssh and vnc so that I can access everything with a chrome book but feel free to use any programs you like. 
 When off campus I sometimes use Pulse Secure to establish a vpn with CSU. There are multiple other programs that will also work. The credentials for pulse secure are the same ones that you use for Canvas or Ram Web and I believe the address is "secure.colostate.edu".
-_*If your Username/eName isn't working, try COLOSTATE\eName_
+
 The chrome apps need almost no configuration. (See links below)
 
 [Secure Shell](https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo?hl=en) 
 
 [VNC® Viewer for Google Chrome™](https://chrome.google.com/webstore/detail/vnc%C2%AE-viewer-for-google-ch/iabmpiboiopbgfabjmgeedhcmjenhbla/related?hl=en) 
 
+_*If your Username/eName isn't working, try COLOSTATE\eName_
 
 
 First ssh into a CS dept machine using Secure Shell. I will be using the computer named "Cooper" in my examples but you may use any CS machine. To find the name of a machine look for a white label on the front of the machine next time you are in the CSB.
