@@ -1,7 +1,10 @@
 # CSU_CS_VNC
 **A short tutorial detailing how to VNC into the CS department at CSU.**
 
-I use chrome apps to ssh and vnc so that I can access everything with a chrome book but feel free to use any programs you like. The chrome apps need almost no configuration. (See links below)
+I use chrome apps to ssh and vnc so that I can access everything with a chrome book but feel free to use any programs you like. 
+When off campus I sometimes use Pulse Secure to establish a vpn with CSU. There are multiple other programs that will also work. The credentials for pulse secure are the same ones that you use for Canvas or Ram Web and I believe the address is "secure.colostate.edu".
+_*If your Username/eName isn't working, try COLOSTATE\eName_
+The chrome apps need almost no configuration. (See links below)
 
 [Secure Shell](https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo?hl=en) 
 
@@ -50,8 +53,6 @@ _*use vncserver -kill :5 to stop the server when you are done_
 
 **Your almost done!**
 Now switch over to your regular personal desktop.
-When off campus I sometimes use Pulse Secure to establish a vpn with CSU. There are multiple other programs that will also work. The credentials for pulse secure are the same ones that you use for Canvas or Ram Web and I believe the address is "secure.colostate.edu".
-_*If your Username/eName isn't working, try COLOSTATE\eName_
 
 Once you are ready to connect to the VNC server open up [VNC® Viewer for Google Chrome™](https://chrome.google.com/webstore/detail/vnc%C2%AE-viewer-for-google-ch/iabmpiboiopbgfabjmgeedhcmjenhbla/related?hl=en).
 Type your computer address into the address box.
