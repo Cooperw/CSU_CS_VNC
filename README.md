@@ -1,5 +1,5 @@
 # CSU_CS_VNC
-A short tutorial detailing how to VNC into the CS department at CSU.
+**A short tutorial detailing how to VNC into the CS department at CSU.**
 
 I use chrome apps to ssh and vnc so that I can access everything with a chrome book but feel free to use any programs you like. The chrome apps need almost no configuration. (See links below)
 
@@ -46,7 +46,8 @@ vncserver :5
 ```
 *use vncserver -kill :5 to stop the server when you are done
 
-Your halfway done! Now switch over to your regular personal desktop.
+**Your halfway done!**
+Now switch over to your regular personal desktop.
 When off campus I sometimes use Pulse Secure to establish a vpn with CSU.
 
 Once you are ready to connect to the VNC server open up [VNC® Viewer for Google Chrome™](https://chrome.google.com/webstore/detail/vnc%C2%AE-viewer-for-google-ch/iabmpiboiopbgfabjmgeedhcmjenhbla/related?hl=en).
@@ -59,4 +60,4 @@ Picture Quality: Automatic
 Then click connect and you may get a warning about an uncrypted connection. Click Connect again.
 Enter you CS password.
 You should now be able to see the familiar CS desktop. 
-Enjoy and don't forget to run the -kill command when you are done.
+**Enjoy and don't forget to run the -kill command when you are done.**
