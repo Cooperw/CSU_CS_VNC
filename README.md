@@ -14,7 +14,7 @@ First ssh into a CS dept machine using Secure Shell. I will be using the compute
 Userame: {your cs username}
 Hostname: cooper.cs.colostate.edu
 ```
-*boston and barracuda are two other examples. I think Barracuda and Cooper are located in CSB 225.
+_*boston and barracuda are two other examples. I think Barracuda and Cooper are located in CSB 225._
 
 If you have never used vnc before you may need to modify the startup file.
 First make a backup copy of your old startup file and then open up the origional file.
