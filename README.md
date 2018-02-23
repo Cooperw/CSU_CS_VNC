@@ -10,6 +10,7 @@ I use chrome apps to ssh and vnc so that I can access everything with a chrome b
 
 
 First ssh into a CS dept machine using Secure Shell. I will be using the computer named "Cooper" in my examples but you may use any CS machine. To find the name of a machine look for a white label on the front of the machine next time you are in the CSB.
+[List of CSB Machines](http://www.cs.colostate.edu/~info/machines)
 ```
 Userame: {your cs username}
 Hostname: cooper.cs.colostate.edu
