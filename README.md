@@ -48,7 +48,7 @@ vncserver :5
 ```
 _*use vncserver -kill :5 to stop the server when you are done_
 
-**Your halfway done!**
+**Your almost done!**
 Now switch over to your regular personal desktop.
 When off campus I sometimes use Pulse Secure to establish a vpn with CSU. There are multiple other programs that will also work. The credentials for pulse secure are the same ones that you use for Canvas or Ram Web and I believe the address is "secure.colostate.edu".
 _*If your Username/eName isn't working, try COLOSTATE\eName_
