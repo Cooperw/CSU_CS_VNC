@@ -3,6 +3,7 @@
 
 I use chrome apps to ssh and vnc so that I can access everything with a chrome book but feel free to use any programs you like. 
 When off campus I sometimes use Pulse Secure to establish a vpn with CSU. There are multiple other programs that will also work. The credentials for pulse secure are the same ones that you use for Canvas or Ram Web and I believe the address is "secure.colostate.edu".
+[Update] Pulse secure is now a two-auth setup, follow their directions to set up the mobile auth app.
 
 _*If your Username/eName isn't working, try COLOSTATE\eName_
 
@@ -70,3 +71,4 @@ Then click connect and you may get a warning about an uncrypted connection. Clic
 Enter you CS password.
 You should now be able to see the familiar CS desktop. 
 **Enjoy and don't forget to run the -kill command when you are done.**
+**This setup of vnc does NOT use encryption so use with caution.**
